@@ -1,0 +1,107 @@
+.footer {
+  padding: .3rem 0 1rem;
+  text-align: center;
+  font-size: .24rem;
+}
+
+.footer .btn-group {
+  text-align: left;
+  padding: 0 .3rem;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.footer .btn-group .btn {
+  margin: .2rem;
+  padding: .2rem .5rem;
+  font-size: .25rem;
+  line-height: 1;
+}
+
+.footer .btn-group .user-action {
+  display: inline-block;
+}
+
+.footer .btn-group .btn-login {
+  background-color: #75c60d;
+}
+
+.footer .btn-group .btn-signup {
+  color: #666;
+  background-color: #fff;
+}
+
+.footer .btn-group .btn-city {
+  color: #666;
+  float: right;
+  background: transparent;
+  border: 1px solid #e0dbd7;
+}
+
+.footer-misc {
+  text-align: center;
+}
+
+.footer-misc .copyright a {
+  color: #df3434;
+  text-decoration: underline;
+}
+
+.footer-misc .icp a {
+  font-size: .2rem;
+  color: #9e9e9e;
+  text-decoration: none;
+}
+
+.footer-misc .sankuai a {
+  font-size: .25rem;
+  color: #9e9e9e;
+  text-decoration: none;
+}
+
+.footer .copyright {
+  font-size: .28rem;
+  text-align: center;
+}
+
+.footer .copyright a {
+  color: #df2d2d;
+  text-decoration: none;
+  outline: 0;
+}
+
+.footer-copyright {
+  font-size: .22rem;
+  text-align: center;
+  position: relative;
+  color: #999;
+}
+
+.footer-links {
+  font-size: .24rem;
+  margin: .3rem .2rem;
+  text-align: center;
+}
+
+.theme-color {
+  color: #e54847!important;
+}
+
+.footer-copyright .hr {
+  display: block;
+  content: "";
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  border-top: 1px solid #999;
+}
+
+.footer-copyright-text {
+  position: relative;
+  padding: 0 .3rem;
+  background-color: #f0efed;;
+}

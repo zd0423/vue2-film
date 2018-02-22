@@ -1,0 +1,107 @@
+.showtime-list td {
+  height: 1.26rem;
+  text-align: center;
+  vertical-align: middle;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+/* 时间 */
+.showtime-list .stl-time {
+  width: 21.5%;
+  color: #df2d2d;
+  font-size: .4rem;
+  line-height: .44rem;
+  text-align: left;
+  padding-left: 1.5%;
+}
+
+.showtime-list .stl-time .stl-time-wrap, .showtime-mname a {
+  position: relative;
+}
+
+.showtime-list .stl-time .stl-time-wrap strong {
+  color: #1f1f1f;
+  font-weight: 400;
+}
+
+.showtime-list .stl-time .stl-time-wrap em {
+  display: block;
+  font-size: .24rem;
+  color: #9a9a9a;
+  font-style: normal;
+}
+
+/* 影厅 */
+.showtime-list .stl-info {
+  font-size: .32rem;
+  color: #999;
+  text-align: left;
+  padding-left: 3%;
+  width: 32.6%;
+}
+
+.showtime-list .stl-info div {
+  max-width: 3.6rem;
+  font-size: .24rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.showtime-list .stl-info .stl-ver {
+  color: #333;
+  font-size: .28rem;
+}
+
+.showtime-list .stl-info .two-line {
+  position: relative;
+  max-height: .72rem;
+  padding-right: 1em;
+  white-space: normal;
+  text-overflow: clip;
+  margin-top: .12rem;
+}
+
+/* 影厅 */
+
+/* 价格 */
+.showtime-list .stl-price {
+  line-height: .44rem;
+  font-size: .4rem;
+  text-align: right;
+}
+
+.showtime-list .stl-price .unit {
+  font-size: .4rem;
+  padding-left: .04rem;
+}
+
+.showtime-list .stl-price .theme-color {
+  color: #e54847 !important;
+}
+
+.showtime-list .stl-price .origin-price {
+  display: block;
+  font-size: .24rem;
+  color: #9a9a9a;
+  font-style: normal;
+}
+
+/* 价格 */
+
+/* 订购 */
+.showtime-list .stl-buy {
+  width: 24%;
+}
+
+.showtime-list .stl-buy .stl-btn {
+  font-size: .26rem;
+  padding: .12rem;
+  border-radius: .08rem;
+  white-space: nowrap;
+  color: #FA5939;
+  border: 2px solid #FA5939;
+  background: 0 0;
+}
+
+/* 订购 */

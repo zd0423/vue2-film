@@ -1,0 +1,3582 @@
+{
+  "userInfo": {
+    "userId": "ead5b50d-f2c7-44b9-b21c-a4b15e80a8b2",
+    "userName": "User",
+    "token": "1aff31b1-6e62-470c-ab07-14538f5ce35c"
+  },
+  "citiesInfo": [
+    {
+      "title": "热门城市",
+      "cities": [
+        {
+          "name": "北京",
+          "code": "bj"
+        },
+        {
+          "name": "上海",
+          "code": "sh"
+        },
+        {
+          "name": "广州",
+          "code": "gz"
+        },
+        {
+          "name": "深圳",
+          "code": "sz"
+        },
+        {
+          "name": "西安",
+          "code": "xa"
+        },
+        {
+          "name": "重庆",
+          "code": "cq"
+        },
+        {
+          "name": "杭州",
+          "code": "hz"
+        },
+        {
+          "name": "南京",
+          "code": "nj"
+        },
+        {
+          "name": "武汉",
+          "code": "wh"
+        },
+        {
+          "name": "成都",
+          "code": "cd"
+        }
+      ]
+    },
+    {
+      "title": "A",
+      "cities": [
+        {
+          "name": "阿拉善盟",
+          "code": "alsm"
+        },
+        {
+          "name": "鞍山",
+          "code": "as"
+        },
+        {
+          "name": "安庆",
+          "code": "aq"
+        },
+        {
+          "name": "安阳",
+          "code": "ay"
+        },
+        {
+          "name": "阿里",
+          "code": "al"
+        },
+        {
+          "name": "安康",
+          "code": "ak"
+        },
+        {
+          "name": "阿克苏",
+          "code": "aks"
+        },
+        {
+          "name": "阿勒泰",
+          "code": "alt"
+        },
+        {
+          "name": "澳门",
+          "code": "am"
+        },
+        {
+          "name": "安吉",
+          "code": "aj"
+        },
+        {
+          "name": "安岳",
+          "code": "aq"
+        },
+        {
+          "name": "安平",
+          "code": "ap"
+        },
+        {
+          "name": "安溪",
+          "code": "ax"
+        },
+        {
+          "name": "安宁",
+          "code": "an"
+        }
+      ]
+    }
+  ],
+  "localMoviesInfo": [
+    {
+      "id": "000001",
+      "name": "前任3：再见前任",
+      "posterUrl": "http://p0.meituan.net/movie/770b38cff221ad8545bf7bd3eba9912b1601613.jpg@128w_180h",
+      "type": "喜剧,爱情",
+      "score": "9.2",
+      "actor": "韩庚,郑恺,于文文",
+      "screen": {
+        "v3d": true,
+        "imax": true
+      },
+      "isShow": true,
+      "wish": "",
+      "playInfo": "今天180家影院放映2545场"
+    },
+    {
+      "id": "000002",
+      "name": "无问西东",
+      "posterUrl": "http://p0.meituan.net/movie/75352182978ae891abb55727f51c28b6305181.jpg@128w_180h",
+      "type": "爱情,战争",
+      "score": "8.6",
+      "actor": "章子怡,黄晓明,王力宏",
+      "screen": {},
+      "isShow": true,
+      "wish": "",
+      "playInfo": "今天186家影院放映1894场"
+    },
+    {
+      "id": "000003",
+      "name": "神秘巨星",
+      "posterUrl": "http://p0.meituan.net/movie/ba489e6ba90fe7b0110479c548797396585731.png@128w_180h",
+      "type": "剧情,喜剧",
+      "score": "9.5",
+      "actor": "阿米尔·汗,塞伊拉·沃西,梅·维贾",
+      "screen": {},
+      "isShow": false,
+      "wish": "",
+      "playInfo": "今天18家影院放映18场"
+    },
+    {
+      "id": "000004",
+      "name": "奇迹男孩",
+      "posterUrl": "http://p0.meituan.net/movie/3db703587e44787f0a38bc273ee71bf7878901.jpg@128w_180h",
+      "type": "剧情,家庭",
+      "score": "9.1",
+      "actor": "朱莉娅·罗伯茨,欧文·威尔逊,雅各布·特伦布莱",
+      "screen": {},
+      "isShow": false,
+      "wish": "",
+      "playInfo": "今天13家影院放映14场"
+    },
+    {
+      "id": "000005",
+      "name": "谜巢",
+      "posterUrl": "http://p0.meituan.net/movie/edbbba4ec631c5c67109b719c63ee862540676.jpg@128w_180h",
+      "type": "动作,冒险",
+      "score": "",
+      "actor": "李冰冰,凯南·鲁兹,吴尊",
+      "screen": {
+        "v3d": true
+      },
+      "isShow": false,
+      "wish": "67142",
+      "playInfo": "今天16家影院放映16场"
+    },
+    {
+      "id": "000006",
+      "name": "公牛历险记",
+      "posterUrl": "http://p0.meituan.net/movie/80910ba7d9c2c4ee383cfe1e9a997828637397.jpg@128w_180h",
+      "type": "喜剧,动画,冒险",
+      "score": "",
+      "actor": "约翰·塞纳,吉娜·罗德里格兹,鲍比·坎纳瓦尔",
+      "screen": {
+        "v3d": true
+      },
+      "isShow": false,
+      "wish": "15132",
+      "playInfo": "今天6家影院放映6场"
+    },
+    {
+      "id": "000007",
+      "name": "英雄本色2018",
+      "posterUrl": "http://p1.meituan.net/movie/1e0ac50e199ddde0dee9d824e95935881176431.jpg@128w_180h",
+      "type": "剧情,动作",
+      "score": "",
+      "actor": "王凯,马天宇,王大陆",
+      "screen": {},
+      "isShow": true,
+      "wish": "7.7",
+      "playInfo": "今天176家影院放映650场"
+    },
+    {
+      "id": "000008",
+      "name": "捉妖记2",
+      "posterUrl": "http://p1.meituan.net/movie/ddbaa3f31cdbdfa6cd72721de63545021032555.jpg@128w_180h",
+      "type": "喜剧,奇幻",
+      "score": "",
+      "actor": "梁朝伟,白百何,井柏然",
+      "screen": {
+        "v2d": true,
+        "imax": true
+      },
+      "isShow": false,
+      "wish": "341735",
+      "playInfo": "2018-02-16上映"
+    },
+    {
+      "id": "000009",
+      "name": "西游记女儿国",
+      "posterUrl": "http://p0.meituan.net/movie/9efefcccb19036ae3529dfded0a9223c1765339.jpg@128w_180h",
+      "type": "喜剧,爱情,奇幻",
+      "score": "",
+      "actor": "郭富城,冯绍峰,赵丽颖",
+      "screen": {
+        "v3d": true
+      },
+      "isShow": false,
+      "wish": "205336",
+      "playInfo": "2018-02-16上映"
+    },
+    {
+      "id": "000010",
+      "name": "唐人街探案2",
+      "posterUrl": "http://p0.meituan.net/movie/3717900a6418669f7a0989541d18616d1095808.jpg@128w_180h",
+      "type": "喜剧,动作,悬疑",
+      "score": "",
+      "actor": "王宝强,刘昊然,肖央",
+      "screen": {
+        "v2d": true,
+        "imax": true
+      },
+      "isShow": false,
+      "wish": "266714",
+      "playInfo": "2018-02-16上映"
+    }
+  ],
+  "localCinemasInfo": [
+    {
+      "id": "0001",
+      "name": "首都电影院(悦荟万科广场店)",
+      "address": "昌平区南环路10号院1号楼悦荟万科广场8层",
+      "num": "24",
+      "dis": "900m",
+      "tags": [
+        "团"
+      ]
+    },
+    {
+      "id": "0002",
+      "name": "美嘉欢乐影城(中关村店)",
+      "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+      "num": "39",
+      "dis": "1.7km",
+      "tags": [
+        "座"
+      ]
+    },
+    {
+      "id": "0003",
+      "name": "海淀剧院",
+      "address": "海淀区中关村大街28号",
+      "num": "24",
+      "dis": "2.0km",
+      "tags": [
+        "团"
+      ]
+    },
+    {
+      "id": "0004",
+      "name": "金逸影城(中关村店)",
+      "address": "海淀区中关村大街19号新中关购物中心B1层",
+      "num": "58",
+      "dis": "2.0km",
+      "tags": [
+        "座"
+      ]
+    },
+    {
+      "id": "0005",
+      "name": "嘉华国际影城(学清路店)",
+      "address": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+      "num": "28",
+      "dis": "2.8km",
+      "tags": [
+        "座",
+        "巨幕厅"
+      ]
+    },
+    {
+      "id": "0006",
+      "name": "UME国际影城(华星店)",
+      "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+      "num": "39.5",
+      "dis": "2.8km",
+      "tags": [
+        "座",
+        "IMAX厅",
+        "中国巨幕厅",
+        "RealD厅"
+      ]
+    },
+    {
+      "id": "0007",
+      "name": "新华国际影城(大钟寺店)",
+      "address": "海淀区北三环西路甲18号大钟寺中坤广场西区3层",
+      "num": "38",
+      "dis": "3.1km",
+      "tags": [
+        "座",
+        "双机3D厅"
+      ]
+    },
+    {
+      "id": "0008",
+      "name": "橙天嘉禾影城(万柳店)",
+      "address": "海淀区巴沟路2号华联万柳购物中心5层",
+      "num": "40",
+      "dis": "3.6km",
+      "tags": [
+        "座",
+        "4K厅"
+      ]
+    },
+    {
+      "id": "0009",
+      "name": "海淀工人文化宫",
+      "address": "海淀区万柳华府北街2号（万柳华联商城南门对面）",
+      "num": "23",
+      "dis": "3.7km",
+      "tags": [
+        "座"
+      ]
+    },
+    {
+      "id": "0010",
+      "name": "完美世界影城(17.5四道口店)",
+      "address": "海淀区融科资讯中心B座-1-2",
+      "num": "35",
+      "dis": "4.0km",
+      "tags": [
+        "座"
+      ]
+    }
+  ],
+  "showsInfo": {
+    "cinemaInfo": {
+      "id": "0001",
+      "name": "首都电影院(悦荟万科广场店)",
+      "address": "昌平区南环路10号院1号楼悦荟万科广场8层",
+      "tel": "010-88878912"
+    },
+    "moviesInfo": [
+      {
+        "id": "000001",
+        "name": "前任3：再见前任",
+        "poster": "http://p0.meituan.net/movie/770b38cff221ad8545bf7bd3eba9912b1601613.jpg@165w_220h_1e_1c",
+        "score": "9.2",
+        "shows": [
+          {
+            "showDate": "2018-01-22",
+            "dateShow": "今天1月22日",
+            "plist": [
+              {
+                "id": "1-1",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "33",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "1-2",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "34",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "1-3",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "35",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "1-4",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "36",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "1-5",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "37",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "1-6",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "38",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          },
+          {
+            "showDate": "2018-01-23",
+            "dateShow": "明天1月23日",
+            "plist": [
+              {
+                "id": "1-7",
+                "dt": "2018-01-23",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "1-17",
+                "dt": "2018-01-23",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          },
+          {
+            "showDate": "2018-01-24",
+            "dateShow": "后天1月24日",
+            "plist": [
+              {
+                "id": "1-8",
+                "dt": "2018-01-24",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          },
+          {
+            "showDate": "2018-01-25",
+            "dateShow": "1月25日",
+            "plist": [
+              {
+                "id": "1-9",
+                "dt": "2018-01-25",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "000002",
+        "name": "无问西东",
+        "poster": "http://p0.meituan.net/movie/75352182978ae891abb55727f51c28b6305181.jpg@165w_220h_1e_1c",
+        "score": "8.6",
+        "shows": [
+          {
+            "showDate": "2018-01-22",
+            "dateShow": "今天1月22日",
+            "plist": [
+              {
+                "id": "2-1",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "33",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "2-2",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "34",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "2-3",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "35",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "2-4",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "36",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "2-5",
+                "dt": "2018-01-22",
+                "enterShowSeat": 1,
+                "price": "37",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "1号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          },
+          {
+            "showDate": "2018-01-23",
+            "dateShow": "明天1月23日",
+            "plist": [
+              {
+                "id": "2-7",
+                "dt": "2018-01-23",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              },
+              {
+                "id": "2-17",
+                "dt": "2018-01-23",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          },
+          {
+            "showDate": "2018-01-24",
+            "dateShow": "后天1月24日",
+            "plist": [
+              {
+                "id": "2-8",
+                "dt": "2018-01-24",
+                "enterShowSeat": 1,
+                "price": "50",
+                "extraDesc": "影院价:100元",
+                "lang": "国语",
+                "th": "5号厅",
+                "tm": "16:05",
+                "tp": "2D"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "000003",
+        "name": "迷镇凶案",
+        "poster": "http://p1.meituan.net/movie/6fa9f72e9fff2092d96391461d591d90980798.jpg@165w_220h_1e_1c",
+        "score": "7.1",
+        "shows": [
+          {
+            "showDate": "2018-01-22",
+            "dateShow": "今天1月22日",
+            "plist": []
+          }
+        ]
+      },
+      {
+        "id": "000004",
+        "name": "勇敢者游戏：决战丛林",
+        "poster": "http://p0.meituan.net/movie/bd0a5c6ca9f93928795bb18622cb043b383877.jpg@165w_220h_1e_1c",
+        "score": "8.5",
+        "shows": [
+          {
+            "showDate": "2018-01-22",
+            "dateShow": "今天1月22日",
+            "plist": []
+          }
+        ]
+      },
+      {
+        "id": "000005",
+        "name": "芳华",
+        "poster": "http://p0.meituan.net/movie/fe0d4da87d70ba2b91e10ac98e0bf5ef1365131.png@165w_220h_1e_1c",
+        "score": "9.1",
+        "shows": [
+          {
+            "showDate": "2018-01-22",
+            "dateShow": "今天1月22日",
+            "plist": []
+          }
+        ]
+      },
+      {
+        "id": "000006",
+        "name": "卧底巨星",
+        "poster": "http://p0.meituan.net/movie/5d5f7872cd8457f40d92a34cbd9f14491818744.jpg@165w_220h_1e_1c",
+        "score": "6.6",
+        "shows": [
+          {
+            "showDate": "2018-01-22",
+            "dateShow": "今天1月22日",
+            "plist": []
+          }
+        ]
+      }
+    ]
+  },
+  "cinemasInfo": [
+    {
+      "showDate": "2018-01-22",
+      "dateShow": "今天1月22日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "首都电影院(悦荟万科广场店)",
+          "address": "昌平区南环路10号院1号楼悦荟万科广场8层",
+          "num": "44",
+          "dis": "900m",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "大地影院(昌平菓岭店)",
+          "address": "昌平区昌崔路203号果岭假日广场四楼",
+          "num": "40",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "昌平保利影剧院(佳莲时代广场店)",
+          "address": "昌平区鼓楼南大街6号佳莲时代广场4楼（近鼓楼西街）",
+          "num": "37",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "星美国际影商城(回龙观店)",
+          "address": "昌平区回龙观西大街111号华联商场3楼",
+          "num": "42",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0005",
+          "name": "沃美影城(回龙观店)",
+          "address": "昌平区回龙观同成街华联购物中心四楼（城铁回龙观站出口对面）",
+          "num": "44",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "杜比全景声厅"
+          ]
+        },
+        {
+          "id": "0006",
+          "name": "保利国际影城(龙旗广场店)",
+          "address": "昌平区黄平路19号院3号楼龙旗广场购物中心3层（地铁8号线育新站路北600米，近永辉超市）",
+          "num": "43.9",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "4k厅"
+          ]
+        },
+        {
+          "id": "0007",
+          "name": "新华国际影城(大钟寺店)",
+          "address": "海淀区北三环西路甲18号大钟寺中坤广场西区3层",
+          "num": "38",
+          "dis": "3.1km",
+          "tags": [
+            "座",
+            "双机3D厅"
+          ]
+        },
+        {
+          "id": "0008",
+          "name": "橙天嘉禾影城(万柳店)",
+          "address": "海淀区巴沟路2号华联万柳购物中心5层",
+          "num": "40",
+          "dis": "3.6km",
+          "tags": [
+            "座",
+            "4K厅"
+          ]
+        },
+        {
+          "id": "0009",
+          "name": "海淀工人文化宫",
+          "address": "海淀区万柳华府北街2号（万柳华联商城南门对面）",
+          "num": "23",
+          "dis": "3.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0010",
+          "name": "完美世界影城(17.5四道口店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "35",
+          "dis": "4.0km",
+          "tags": [
+            "座"
+          ]
+        }
+      ]
+    },
+    {
+      "showDate": "2018-01-23",
+      "dateShow": "明天1月23日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "太平洋影城(北京中关村店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "24",
+          "dis": "900m",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "美嘉欢乐影城(中关村店)",
+          "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+          "num": "39",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "海淀剧院",
+          "address": "海淀区中关村大街28号",
+          "num": "24",
+          "dis": "2.0km",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "金逸影城(中关村店)",
+          "address": "海淀区中关村大街19号新中关购物中心B1层",
+          "num": "58",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0005",
+          "name": "嘉华国际影城(学清路店)",
+          "address": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+          "num": "28",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "巨幕厅"
+          ]
+        },
+        {
+          "id": "0006",
+          "name": "UME国际影城(华星店)",
+          "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+          "num": "39.5",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "IMAX厅",
+            "中国巨幕厅",
+            "RealD厅"
+          ]
+        }
+      ]
+    },
+    {
+      "showDate": "2018-01-24",
+      "dateShow": "后天1月14日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "太平洋影城(北京中关村店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "25",
+          "dis": "900m",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "美嘉欢乐影城(中关村店)",
+          "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+          "num": "26",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "海淀剧院",
+          "address": "海淀区中关村大街28号",
+          "num": "27",
+          "dis": "2.0km",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "金逸影城(中关村店)",
+          "address": "海淀区中关村大街19号新中关购物中心B1层",
+          "num": "58",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        }
+      ]
+    },
+    {
+      "showDate": "2018-01-25",
+      "dateShow": "周四1月25日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "太平洋影城(北京中关村店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "26",
+          "dis": "900m",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "美嘉欢乐影城(中关村店)",
+          "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+          "num": "27",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "海淀剧院",
+          "address": "海淀区中关村大街28号",
+          "num": "28",
+          "dis": "2.0km",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "金逸影城(中关村店)",
+          "address": "海淀区中关村大街19号新中关购物中心B1层",
+          "num": "29",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0005",
+          "name": "嘉华国际影城(学清路店)",
+          "address": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+          "num": "28",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "巨幕厅"
+          ]
+        },
+        {
+          "id": "0006",
+          "name": "UME国际影城(华星店)",
+          "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+          "num": "30",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "IMAX厅",
+            "中国巨幕厅",
+            "RealD厅"
+          ]
+        }
+      ]
+    },
+    {
+      "showDate": "2018-01-26",
+      "dateShow": "周五1月26日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "太平洋影城(北京中关村店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "31",
+          "dis": "900m",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "美嘉欢乐影城(中关村店)",
+          "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+          "num": "32",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "海淀剧院",
+          "address": "海淀区中关村大街28号",
+          "num": "33",
+          "dis": "2.0km",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "金逸影城(中关村店)",
+          "address": "海淀区中关村大街19号新中关购物中心B1层",
+          "num": "34",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0005",
+          "name": "嘉华国际影城(学清路店)",
+          "address": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+          "num": "35",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "巨幕厅"
+          ]
+        },
+        {
+          "id": "0006",
+          "name": "UME国际影城(华星店)",
+          "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+          "num": "36",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "IMAX厅",
+            "中国巨幕厅",
+            "RealD厅"
+          ]
+        }
+      ]
+    },
+    {
+      "showDate": "2018-01-27",
+      "dateShow": "周六1月27日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "太平洋影城(北京中关村店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "37",
+          "dis": "900m",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "美嘉欢乐影城(中关村店)",
+          "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+          "num": "38",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "海淀剧院",
+          "address": "海淀区中关村大街28号",
+          "num": "39",
+          "dis": "2.0km",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "金逸影城(中关村店)",
+          "address": "海淀区中关村大街19号新中关购物中心B1层",
+          "num": "40",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0005",
+          "name": "嘉华国际影城(学清路店)",
+          "address": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+          "num": "41",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "巨幕厅"
+          ]
+        },
+        {
+          "id": "0006",
+          "name": "UME国际影城(华星店)",
+          "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+          "num": "42",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "IMAX厅",
+            "中国巨幕厅",
+            "RealD厅"
+          ]
+        }
+      ]
+    },
+    {
+      "showDate": "2018-01-28",
+      "dateShow": "周日1月28日",
+      "cinemaList": [
+        {
+          "id": "0001",
+          "name": "太平洋影城(北京中关村店)",
+          "address": "海淀区融科资讯中心B座-1-2",
+          "num": "43",
+          "dis": "900m",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0002",
+          "name": "美嘉欢乐影城(中关村店)",
+          "address": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+          "num": "44",
+          "dis": "1.7km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0003",
+          "name": "海淀剧院",
+          "address": "海淀区中关村大街28号",
+          "num": "45",
+          "dis": "2.0km",
+          "tags": [
+            "团"
+          ]
+        },
+        {
+          "id": "0004",
+          "name": "金逸影城(中关村店)",
+          "address": "海淀区中关村大街19号新中关购物中心B1层",
+          "num": "46",
+          "dis": "2.0km",
+          "tags": [
+            "座"
+          ]
+        },
+        {
+          "id": "0005",
+          "name": "嘉华国际影城(学清路店)",
+          "address": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+          "num": "47",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "巨幕厅"
+          ]
+        },
+        {
+          "id": "0006",
+          "name": "UME国际影城(华星店)",
+          "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+          "num": "50",
+          "dis": "2.8km",
+          "tags": [
+            "座",
+            "IMAX厅",
+            "中国巨幕厅",
+            "RealD厅"
+          ]
+        }
+      ]
+    }
+  ],
+  "movieInfo": {
+    "id": "0001",
+    "comScorePersona": true,
+    "commented": false,
+    "dir": "田羽生",
+    "distributions": [
+      {
+        "movieScoreLevel": "9-10分",
+        "proportion": "80.14"
+      },
+      {
+        "movieScoreLevel": "5-8分",
+        "proportion": "17.58"
+      },
+      {
+        "movieScoreLevel": "1-4分",
+        "proportion": "2.28"
+      }
+    ],
+    "nm": "前任3：再见前任",
+    "enm": "The Ex-file: The Return Of The Exes",
+    "snum": "86.7万",
+    "sc": 9.2,
+    "cat": "喜剧,爱情",
+    "src": "中国大陆",
+    "dur": 120,
+    "pubDesc": "2017-12-29大陆上映",
+    "dra": "本片讲述了一对好基友孟云（韩庚 饰）和余飞（郑恺 饰）跟女友都因为一点小事宣告分手，并且“拒绝挽回，死不认错”。两人在夜店、派对与交友软件上放飞人生第二春，大肆庆祝“黄金单身期”，从而引发了一系列好笑的故事。孟云与女友同甘共苦却难逃“五年之痒”，余飞与女友则棋逢敌手相爱相杀无绝期。然而现实的“打脸”却来得猝不及防：一对推拉纠结零往来，一对纠缠互怼全交代。两对恋人都将面对最终的选择：是再次相见？还是再也不见？",
+    "egg": true,
+    "bgimg": "http://p0.meituan.net/177.249/movie/770b38cff221ad8545bf7bd3eba9912b1601613.jpg",
+    "posterUrl": "http://p0.meituan.net/movie/770b38cff221ad8545bf7bd3eba9912b1601613.jpg@128w_180h",
+    "staff": [
+      {
+        "id": "",
+        "name": "田羽生",
+        "role": "导演",
+        "photo": "https://p1.meituan.net/movie/cc2fc5330df48b98b9c51a01c4b1674f27850.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "韩庚",
+        "role": "孟云",
+        "photo": "http://p1.meituan.net/movie/bd462c3cf52f06e786d08ebab03ba79337799.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "郑恺",
+        "role": "余飞",
+        "photo": "https://p1.meituan.net/movie/38779dc25f1f9d48df58993696b5833238303.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "于文文",
+        "role": "林佳",
+        "photo": "https://p0.meituan.net/movie/7c984f615a7dd97dc45c0dcacbf25ad154648.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "曾梦雪",
+        "role": "丁点",
+        "photo": "https://p1.meituan.net/movie/1e70305e0469c8684fa57d3567f8861251897.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "罗米",
+        "role": "王梓",
+        "photo": "https://p1.meituan.net/movie/5365a6d3e2352023be2e83a93cffdb7932444.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "肖飞",
+        "role": "双刀",
+        "photo": "https://img.meituan.net/avatar/d925fca96628ce7f55c65ea3e7f6d57195639.jpg"
+      },
+      {
+        "id": "",
+        "name": "可儿",
+        "role": "可儿",
+        "photo": "https://p1.meituan.net/movie/ec4859ed69c643bdc605b22d1a439b1357262.jpg@130w_180h"
+      },
+      {
+        "id": "",
+        "name": "王志鹏",
+        "role": "鹏鹏",
+        "photo": "https://img.meituan.net/avatar/172364420d65b372b16126825e2d29fe163629.jpg"
+      }
+    ]
+  },
+  "hallInfo": {
+    "showDate": "2018-01-20",
+    "showId": 237536,
+    "showTime": "16:50",
+    "soldImages": [],
+    "tp": "2D",
+    "token": "",
+    "mobile": "",
+    "dateShow": "今天1月20日",
+    "buyNumLimit": 5,
+    "cinemaId": 50,
+    "cinemaName": "昌平保利影剧院(佳莲时代广场店)",
+    "desc": "",
+    "fansMeeting": "",
+    "glassInfo": "",
+    "hallId": "2621",
+    "hallName": "六号厅",
+    "isShowRecommendation": 1,
+    "lang": "国语",
+    "langWarn": 0,
+    "movieId": 71946,
+    "movieName": "无问西东",
+    "originPrice": "0",
+    "preLimit": 0,
+    "preTag": "",
+    "price": "0",
+    "remind": "",
+    "seatTypeList": [
+      {
+        "icon": "http://p1.meituan.net/movie/9dfff6fd525a7119d44e5734ab0e9fb41244.png",
+        "name": "可选"
+      },
+      {
+        "icon": "http://p1.meituan.net/movie/bdb0531259ae1188b9398520f9692cbd1249.png",
+        "name": "不可选"
+      },
+      {
+        "icon": "http://p0.meituan.net/movie/585588bd86828ed54eed828dcb89bfdd1401.png",
+        "name": "已选"
+      }
+    ],
+    "seatsPrice": {
+      "1": {
+        "expression": "34X1",
+        "price": "34"
+      },
+      "2": {
+        "expression": "34X2",
+        "price": "68"
+      },
+      "3": {
+        "expression": "34X3",
+        "price": "102"
+      },
+      "4": {
+        "expression": "34X4",
+        "price": "136"
+      },
+      "5": {
+        "expression": "34X5",
+        "price": "170"
+      }
+    },
+    "section": {
+      "cols": 28,
+      "rows": 15,
+      "seats": [
+        {
+          "columns": [
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3566",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3567",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3568",
+              "st": "N"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3569",
+              "st": "N"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3570",
+              "st": "N"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3571",
+              "st": "N"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3572",
+              "st": "N"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3573",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3574",
+              "st": "N"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3575",
+              "st": "N"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3576",
+              "st": "N"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3577",
+              "st": "N"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3578",
+              "st": "N"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3579",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3580",
+              "st": "N"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3581",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            }
+          ],
+          "rowId": "1",
+          "rowNum": 1
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3588",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3589",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3590",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3591",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3593",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3594",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3595",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3596",
+              "st": "N"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3597",
+              "st": "N"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3598",
+              "st": "N"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3599",
+              "st": "N"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3600",
+              "st": "N"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3601",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3602",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3603",
+              "st": "N"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3604",
+              "st": "N"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3605",
+              "st": "N"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3606",
+              "st": "N"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3607",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3608",
+              "st": "N"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3609",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3612",
+              "st": "N"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3613",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3614",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3615",
+              "st": "N"
+            }
+          ],
+          "rowId": "2",
+          "rowNum": 2
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3616",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3617",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3618",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3619",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3621",
+              "st": "LK"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3622",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3623",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3624",
+              "st": "N"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3625",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3626",
+              "st": "N"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3627",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3628",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3629",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3630",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3631",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3632",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3633",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3634",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3635",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3636",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3637",
+              "st": "LK"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3638",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3640",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3641",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3642",
+              "st": "N"
+            },
+            {
+              "columnId": "26",
+              "seatNo": "3643",
+              "st": "N"
+            }
+          ],
+          "rowId": "3",
+          "rowNum": 3
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3644",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3645",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3646",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3647",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3649",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3650",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3651",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3652",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3653",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3654",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3655",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3656",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3657",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3658",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3659",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3660",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3661",
+              "st": "N"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3662",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3663",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3664",
+              "st": "N"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3665",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3668",
+              "st": "N"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3669",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3670",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3671",
+              "st": "N"
+            }
+          ],
+          "rowId": "4",
+          "rowNum": 4
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3672",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3673",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3674",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3675",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3677",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3678",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3679",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3680",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3681",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3682",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3683",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3684",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3685",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3686",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3687",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3688",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3689",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3690",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3691",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3692",
+              "st": "N"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3693",
+              "st": "N"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3694",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3696",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3697",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3698",
+              "st": "N"
+            },
+            {
+              "columnId": "26",
+              "seatNo": "3699",
+              "st": "N"
+            }
+          ],
+          "rowId": "5",
+          "rowNum": 5
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3700",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3701",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3702",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3703",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3705",
+              "st": "LK"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3706",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3707",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3708",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3709",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3710",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3711",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3712",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3713",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3714",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3715",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3716",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3717",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3718",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3719",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3720",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3721",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3724",
+              "st": "N"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3725",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3726",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3727",
+              "st": "N"
+            }
+          ],
+          "rowId": "6",
+          "rowNum": 6
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3728",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3729",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3730",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3731",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3733",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3734",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3735",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3736",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3737",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3738",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3739",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3740",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3741",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3742",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3743",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3744",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3745",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3746",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3747",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3748",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3749",
+              "st": "N"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3750",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3752",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3753",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3754",
+              "st": "N"
+            },
+            {
+              "columnId": "26",
+              "seatNo": "3755",
+              "st": "N"
+            }
+          ],
+          "rowId": "7",
+          "rowNum": 7
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3756",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3757",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3758",
+              "st": "LK"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3759",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3761",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3762",
+              "st": "LK"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3763",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3764",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3765",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3766",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3767",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3768",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3769",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3770",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3771",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3772",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3773",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3774",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3775",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3776",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3777",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3780",
+              "st": "N"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3781",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3782",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3783",
+              "st": "N"
+            }
+          ],
+          "rowId": "8",
+          "rowNum": 8
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3784",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3785",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3786",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3787",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3789",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3790",
+              "st": "LK"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3791",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3792",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3793",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3794",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3795",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3796",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3797",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3798",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3799",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3800",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3801",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3802",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3803",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3804",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3805",
+              "st": "LK"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3806",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3808",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3809",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3810",
+              "st": "N"
+            },
+            {
+              "columnId": "26",
+              "seatNo": "3811",
+              "st": "N"
+            }
+          ],
+          "rowId": "9",
+          "rowNum": 9
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3812",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3813",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3814",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3815",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3817",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3818",
+              "st": "LK"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3819",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3820",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3821",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3822",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3823",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3824",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3825",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3826",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3827",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3828",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3829",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3830",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3831",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3832",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3833",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3836",
+              "st": "N"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3837",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3838",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3839",
+              "st": "N"
+            }
+          ],
+          "rowId": "10",
+          "rowNum": 10
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3840",
+              "st": "LK"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3841",
+              "st": "LK"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3842",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3843",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3845",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3846",
+              "st": "LK"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3847",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3848",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3849",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3850",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3851",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3852",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3853",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3854",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3855",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3856",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3857",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3858",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3859",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3860",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3861",
+              "st": "LK"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3862",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3864",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3865",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3866",
+              "st": "N"
+            },
+            {
+              "columnId": "26",
+              "seatNo": "3867",
+              "st": "N"
+            }
+          ],
+          "rowId": "11",
+          "rowNum": 11
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3868",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3869",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3870",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3871",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3873",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3874",
+              "st": "LK"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3875",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3876",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3877",
+              "st": "N"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3878",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3879",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3880",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3881",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3882",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3883",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3884",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3885",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3886",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3887",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3888",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3889",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3892",
+              "st": "N"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3893",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3894",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3895",
+              "st": "N"
+            }
+          ],
+          "rowId": "12",
+          "rowNum": 12
+        },
+        {
+          "columns": [
+            {
+              "columnId": "25",
+              "seatNo": "3896",
+              "st": "N"
+            },
+            {
+              "columnId": "23",
+              "seatNo": "3897",
+              "st": "N"
+            },
+            {
+              "columnId": "21",
+              "seatNo": "3898",
+              "st": "N"
+            },
+            {
+              "columnId": "19",
+              "seatNo": "3899",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "17",
+              "seatNo": "3901",
+              "st": "LK"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3902",
+              "st": "LK"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3903",
+              "st": "LK"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3904",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3905",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3906",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3907",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3908",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3909",
+              "st": "LK"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3910",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3911",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3912",
+              "st": "LK"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3913",
+              "st": "LK"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3914",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3915",
+              "st": "LK"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3916",
+              "st": "LK"
+            },
+            {
+              "columnId": "16",
+              "seatNo": "3917",
+              "st": "LK"
+            },
+            {
+              "columnId": "18",
+              "seatNo": "3918",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "20",
+              "seatNo": "3920",
+              "st": "N"
+            },
+            {
+              "columnId": "22",
+              "seatNo": "3921",
+              "st": "N"
+            },
+            {
+              "columnId": "24",
+              "seatNo": "3922",
+              "st": "N"
+            },
+            {
+              "columnId": "26",
+              "seatNo": "3923",
+              "st": "N"
+            }
+          ],
+          "rowId": "13",
+          "rowNum": 13
+        },
+        {
+          "columns": [
+            {
+              "columnId": "13",
+              "seatNo": "3924",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3925",
+              "st": "N"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3926",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3929",
+              "st": "LK"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3930",
+              "st": "LK"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3931",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3932",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3943",
+              "st": "N"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3944",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3945",
+              "st": "N"
+            },
+            {
+              "columnId": "8",
+              "seatNo": "3946",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "10",
+              "seatNo": "3949",
+              "st": "LK"
+            },
+            {
+              "columnId": "12",
+              "seatNo": "3950",
+              "st": "N"
+            },
+            {
+              "columnId": "14",
+              "seatNo": "3951",
+              "st": "N"
+            }
+          ],
+          "rowId": "14",
+          "rowNum": 14
+        },
+        {
+          "columns": [
+            {
+              "columnId": "17",
+              "seatNo": "3952",
+              "st": "N"
+            },
+            {
+              "columnId": "15",
+              "seatNo": "3953",
+              "st": "N"
+            },
+            {
+              "columnId": "13",
+              "seatNo": "3954",
+              "st": "N"
+            },
+            {
+              "columnId": "11",
+              "seatNo": "3955",
+              "st": "LK"
+            },
+            {
+              "columnId": "9",
+              "seatNo": "3956",
+              "st": "LK"
+            },
+            {
+              "columnId": "7",
+              "seatNo": "3957",
+              "st": "N"
+            },
+            {
+              "columnId": "5",
+              "seatNo": "3958",
+              "st": "N"
+            },
+            {
+              "columnId": "3",
+              "seatNo": "3959",
+              "st": "LK"
+            },
+            {
+              "columnId": "1",
+              "seatNo": "3960",
+              "st": "LK"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "2",
+              "seatNo": "3972",
+              "st": "LK"
+            },
+            {
+              "columnId": "4",
+              "seatNo": "3973",
+              "st": "LK"
+            },
+            {
+              "columnId": "6",
+              "seatNo": "3974",
+              "st": "N"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            },
+            {
+              "columnId": "",
+              "seatNo": "",
+              "st": "E"
+            }
+          ],
+          "rowId": "15",
+          "rowNum": 15
+        }
+      ]
+    }
+  },
+  "order": {
+    "pricePackage": {
+      "priceType": 0,
+      "priceDetails": [
+        {
+          "greyDesc": "含服务费4元/张",
+          "title": "票价",
+          "priceDesc": "29元×1"
+        }
+      ],
+      "priceDetailTitle": "电影票",
+      "payMoney": 29
+    },
+    "id": 1774425440,
+    "order": {
+      "movieId": 338493,
+      "cinemaId": 1258,
+      "feeDesc": "含服务费4元/张",
+      "cinemaName": "中影·国际影城(古塔新玛特店)",
+      "sellMoney": "29",
+      "showTime": 1518330000000,
+      "showDealWindow": false,
+      "hallName": "1号厅",
+      "movieName": "南极之恋",
+      "dimension": "2D",
+      "mobilePhone": "18701187532",
+      "payLeftSecond": 839,
+      "seats": {
+        "count": 1,
+        "sectionName": "0000000000000001",
+        "list": [
+          {
+            "rowId": "1",
+            "columnId": "01"
+          }
+        ]
+      },
+      "language": "国语",
+      "showInfo": "2018-02-11 14:20"
+    },
+    "refund": {
+      "refundable": false,
+      "display": true,
+      "desc": "该场次不可退票",
+      "notice": "不可退款",
+      "note": ""
+    }
+  }
+}

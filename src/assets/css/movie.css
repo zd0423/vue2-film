@@ -1,0 +1,333 @@
+@font-face {
+  font-family: 'myfont';
+  src: url('../myfont.woff') format('woff');/* 现代浏览器 */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.movie-page {
+  background: #f4f4f4;
+}
+
+/* 头 */
+
+.movie-header {
+  padding: 0;
+  background: #f8f8f8;
+  border-bottom: none;
+}
+
+.movie {
+  color: #fff;
+  padding: .3rem;
+  line-height: 1;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-filter: blur(0);
+  filter: blur(0);
+}
+
+.movie-background {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 0;
+  position: absolute;
+  filter: blur(.6rem);
+  -webkit-filter: blur(.6rem);
+  background-size: cover;
+  background-image: gray;
+  background-repeat: no-repeat;
+  background-position-y: 40%;
+}
+
+.movie-filter {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  background-color: #40454d;
+  opacity: .55;
+}
+
+.movie-container {
+  z-index: 1;
+  position: relative;
+}
+
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.movie-cover {
+  float: left;
+  width: 2.14rem;
+  height: 3rem;
+  filter: blur(0);
+  font-style: initial;
+  -webkit-filter: blur(0);
+  border: solid 1px #f0f2f3;
+  position: relative;
+}
+
+.movie-cover img {
+  width: 2.14rem;
+  height: 3rem;
+  vertical-align: top;
+}
+
+.movie-cover.movie-with-video:after {
+  content: "播";
+  color: white;
+  right: .1rem;
+  bottom: .1rem;
+  font-size: .5rem;
+  position: absolute;
+  font-family: "myfont";
+  width: .5rem;
+  height: .5rem;
+  line-height: .5rem;
+  border-radius: 100%;
+  opacity: .7;
+  background: #333;
+}
+
+.movie-content {
+  z-index: 2;
+  padding-left: 2.45rem;
+  height: 3rem;
+}
+
+.movie-name {
+  font-size: .34rem;
+  line-height: 1.2;
+  margin-top: .06rem;
+  margin-bottom: .08rem;
+}
+
+.movie-ename {
+  font-size: .25rem;
+  opacity: .8;
+  height: .22rem;
+  margin-bottom: .12rem;
+}
+
+/* 评分 */
+.movie-score {
+  color: #ff9900;
+  font-size: .32rem;
+  margin-bottom: .12rem;
+}
+
+.movie-score .released-score {
+  padding-top: .02rem;
+  color: #ffc600;
+}
+
+.movie-score .released-score .score-num {
+  color: #fff;
+  opacity: .7;
+  font-size: .25rem;
+  margin-top: .08rem;
+  margin-bottom: .16rem;
+}
+
+/* 评分 */
+
+.movie-category {
+  font-size: .24rem;
+  margin-bottom: .12rem;
+}
+
+.movie-category .movie-cat {
+  opacity: .7;
+  vertical-align: middle;
+}
+
+.movie-content-row {
+  font-size: .24rem;
+  opacity: .7;
+  margin-bottom: .12rem;
+}
+
+/* 头 */
+
+.movie-page section.section-seperate {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  margin: .2rem 0;
+  background: #fff;
+}
+
+.movie-page .section-expander {
+  position: relative;
+  margin-top: 0 !important;
+  padding: .3rem .3rem 0 .3rem;
+}
+
+.movie-page .section-expander .btn {
+  margin: 0 0 .2rem;
+}
+
+.btn-block {
+  display: block;
+}
+
+.btn {
+  height: .7rem;
+  color: white;
+  cursor: pointer;
+  font-size: .3rem;
+  padding: .2rem .24rem;
+  text-align: center;
+  line-height: 1;
+  background: #e54847;
+  color: #fff;
+  text-decoration: none;
+}
+
+.text-expander-content {
+  margin: 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-height: 1.2rem;
+}
+
+.text-expander-content p {
+  font-size: .3rem;
+  line-height: .4rem;
+  color: #555;
+  margin: 0;
+}
+
+.text-expander-button {
+  color: #aaa;
+  text-align: center;
+  height: .44rem;
+  font-size: .22rem;
+}
+
+.icon {
+  font-size: 1.4em;
+  line-height: 1.5em;
+  display: inline;
+  vertical-align: middle;
+}
+
+.icon:before {
+  line-height: 1;
+  display: inline-block;
+  font-family: 'myfont';
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-down:before {
+  content: "\EA15";
+}
+
+.text-expander-expand-true i:before {
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -ms-tranform: rotate(180deg);
+}
+
+.movie-page .section-tips h3 {
+  margin: 0;
+  font-weight: 400;
+  color: #666;
+  font-size: .3rem;
+  padding: .2rem .3rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.movie-page .section-tips .tip {
+  height: .8rem;
+  margin-left: .3rem;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.movie-page .section-tips .tip:last-child {
+  border-bottom: none;
+}
+
+.movie-page .section-tips .tip img {
+  width: .4rem;
+  height: .4rem;
+  margin-top: .2rem;
+  float: left;
+}
+
+.movie-page .section-tips .tip span {
+  display: block;
+  padding-top: .22rem;
+  white-space: nowrap;
+  margin-left: .6rem;
+  overflow: hidden;
+  font-size: .28rem;
+  color: #555;
+  text-overflow: ellipsis;
+}
+
+.movie-page .movie-celebrities {
+  width: 100%;
+  padding: .3rem 0 .1rem .3rem;
+  margin: 0;
+  list-style: none;
+  overflow-x: scroll;
+  white-space: nowrap;
+  box-sizing: border-box;
+  font-size: 0;
+}
+
+.movie-page .movie-celebrities li {
+  padding: 0 .03rem;
+  text-align: center;
+  display: inline-block;
+}
+
+.movie-page .movie-celebrities li:first-child {
+  padding-left: 0;
+}
+
+.movie-page .movie-celebrities li:first-child img {
+  margin-left: 0;
+}
+
+.movie-page .movie-celebrities img {
+  width: 1.3rem;
+  height: 1.8rem;
+  margin: .04rem;
+}
+
+.movie-page .movie-celebrities li:first-child span {
+  width: 1.33rem;
+}
+
+.movie-page .movie-celebrities span {
+  display: block;
+  margin-top: .15rem;
+  font-size: .25rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}
+
+.movie-page .movie-celebrities a {
+  color: black;
+  text-decoration: none;
+}
+
+.movie-page .movie-celebrities-roles {
+  color: #999;
+  font-size: .2rem;
+}

@@ -1,0 +1,44 @@
+.collapse {
+  position: relative;
+}
+
+.collapse h3 {
+  margin: 0;
+  padding: 0;
+  line-height: 3;
+  text-indent: 1em;
+  font-size: .3rem;
+  position: relative;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+}
+
+.collapse h3:after {
+  content: '';
+  top: .27rem;
+  right: .4rem;
+  width: .2rem;
+  height: .2rem;
+  position: absolute;
+  border: 2px solid #ccc;
+  border-width: 0 0 .04rem .04rem;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  text-align: right;
+  float: right;
+}
+
+.collapse .list-view {
+  margin: 0;
+  padding: 0;
+}
+
+.collapse .list-view-item {
+  font-size: .29rem !important;
+  padding: .15rem .25rem;
+  border-bottom: solid #e5e5e5 1px;
+}
+
+.collapse .hide {
+  display: none;
+}

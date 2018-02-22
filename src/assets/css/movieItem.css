@@ -1,0 +1,178 @@
+a {
+  color: #666;
+}
+
+.item {
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: .25rem 0;
+  border-bottom: 1px solid #E6E6E6;
+}
+
+/* 电影海报 */
+.movie-cover {
+  width: 1.28rem;
+  height: 1.92rem;
+  display: block;
+  float: left;
+  position: relative;
+}
+
+.movie-cover img {
+  display: block;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.movie-content {
+  margin: .08rem 0 0 1.48rem;
+}
+
+.movie-content p {
+  white-space: nowrap;
+  margin-right: 1.2rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.flexRow {
+  font-size: 0px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -moz-box-pack: justify;
+  -o-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+
+.flex-middle {
+  align-items: center;
+}
+
+.flex-item {
+  flex: 1;
+}
+
+/* 电影名称 */
+.movie-name, .movie-version {
+  white-space: nowrap;
+  display: inline-block !important;
+}
+
+.movie-name {
+  color: #222 !important;
+  line-height: 1.5 !important;
+  font-size: .3rem !important;
+  margin-right: .08rem;
+}
+
+/* 电影类型 */
+.movie-version {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  line-height: 1.3 !important;
+}
+
+.movie-version.v2d.imax:before, .movie-version.v3d.imax:before {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.movie-version.v2d:before, .movie-version.v3d:before {
+  color: #fff;
+  background-color: #8BB7CE;
+  border: 1px solid #8BB7CE;
+  border-radius: 4px;
+}
+
+.movie-version.v2d:before {
+  content: '2D';
+}
+
+.movie-version.v3d:before {
+  content: '3D';
+}
+
+.movie-version.imax:after, .movie-version.v2d:before, .movie-version.v3d:before {
+  padding: .02rem .05rem .04rem;
+  font-size: .16rem;
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+.movie-version.imax:after {
+  color: #8BB7CE;
+  content: 'IMAX';
+  border: 1px solid #8BB7CE;
+  border-left: 0;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.movie-version.imax:after, .movie-version.v2d:before, .movie-version.v3d:before {
+  padding: .02rem .05rem .04rem;
+  font-size: .16rem;
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+/* 评分 */
+.movie-rating {
+  display: block;
+  -webkit-box-flex: 0;
+  -moz-box-flex: 0;
+  -o-box-flex: 0;
+  box-flex: 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  margin-left: .3rem;
+}
+
+.movie-rating span {
+  color: #FFB400;
+  font-size: .3rem;
+  line-height: 1.5;
+}
+
+.movie-rating .score:after {
+  content: '分';
+  font-size: .2rem;
+}
+
+.movie-rating .wish:after {
+  content: '人想看';
+  font-size: .2rem;
+}
+
+/* 订票按钮 */
+.movie-btn {
+  position: absolute;
+  right: 0;
+  bottom: .25rem;
+  padding: .1rem .23rem;
+  font-size: .24rem;
+  line-height: .33rem;
+  color: #fff;
+  background: #e54847;
+  border-radius: .06rem;
+  display: inline-block;
+}
+
+.movie-btn-presale {
+  background: #52B0EB;
+}

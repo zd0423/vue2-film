@@ -1,0 +1,11 @@
+.list {
+  background-color: #FFF;
+  padding: 0 .25rem;
+}
+
+ul {
+  display: block;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}

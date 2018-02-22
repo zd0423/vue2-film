@@ -1,0 +1,173 @@
+#order {
+  font-size: .28rem;
+}
+
+.buy-time {
+  background: #fff3cb;
+  padding: .16rem 0;
+  font-size: .32rem;
+  border-bottom: 2px solid #efd9a7;
+  font-weight: 700;
+  margin-bottom: .2rem;
+}
+
+.btn-block, .btn-close, .buy-btn em, .buy-time {
+  text-align: center;
+}
+
+#order i {
+  color: #d54544;
+  font-style: normal;
+}
+
+.buy-time i {
+  margin: 0 .1rem;
+}
+
+/* 影票信息 */
+.buy-content {
+  color: #333;
+}
+
+.buy-content .cont-title {
+  padding-left: .28rem;
+}
+
+.w-box {
+  padding: .28rem;
+  border: 0 solid #e3e3e3;
+  border-width: 2px 0;
+  background: #fff;
+  margin: .3rem 0;
+}
+
+dl.buy-information {
+  margin: -.2rem 0;
+  font-size: .3rem;
+  line-height: 1.5;
+}
+
+.w-box dt {
+  float: left;
+  width: 1.2rem;
+}
+
+.w-box dt:after {
+  content: '：';
+}
+
+.w-box dd {
+  margin: .2rem 0;
+  height: .6rem;
+  border-bottom: 2px solid #e6e5e3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+dl.buy-information dd:last-child {
+  margin-left: 1.2rem;
+  height: 1.2rem;
+}
+
+.w-box dd:last-child {
+  border-bottom: 0;
+  white-space: normal;
+  overflow: initial;
+}
+
+.buy-mob {
+  position: relative;
+  padding: 0 1.2rem 0 0;
+}
+
+.buy-mob input {
+  border: 0;
+  font-size: .45rem;
+  color: #666;
+  padding: .16rem .26rem;
+  width: 100%;
+}
+
+.buy-mob .btn-close {
+  position: absolute;
+  top: 50%;
+  right: .24rem;
+  margin-top: -.16rem;
+}
+
+.btn-close {
+  border-radius: 50%;
+  display: inline-block;
+  width: .32rem;
+  height: .32rem;
+  overflow: hidden;
+  background: #CCC;
+  line-height: .32rem;
+  color: #fff;
+  font-size: .36rem;
+  font-family: Arial;
+}
+
+.buy-coupon {
+  padding: 0;
+}
+
+.buy-coupon li {
+  padding: .28rem;
+  border-top: 2px solid #e6e5e3;
+  font-size: .3rem;
+}
+
+.buy-coupon li:first-child {
+  border-top: 0;
+}
+
+.buy-coupon .value {
+  float: right;
+}
+
+.buy-coupon .num {
+  color: #d54544;
+}
+
+.buy-btn {
+  margin: .2rem;
+  overflow: hidden;
+}
+
+.buy-btn em {
+  display: block;
+  font-style: normal;
+  margin: .1rem 0 .2rem;
+}
+
+.buy-btn em:before {
+  content: '!';
+  display: inline-block;
+  width: .28rem;
+  height: .28rem;
+  line-height: .28rem;
+  border-radius: 100%;
+  color: #e54847;
+  border: 1px solid #e54847;
+}
+
+button.btn-block, input.btn-block {
+  width: 100%;
+}
+
+.btn-block {
+  height: .9rem;
+  line-height: .9rem;
+  display: block;
+  font-size: .32rem;
+  color: #fff;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: .08rem;
+}
+
+.background-color {
+  background-color: #e54847 !important;
+}

@@ -1,0 +1,26 @@
+.rating {
+  display: inline-block;
+  font-size: .36rem;
+  line-height: 1;
+}
+
+.img {
+  border: 0;
+  display: inline-block;
+  background-size: 50%;
+}
+
+.rating img {
+  width: .36rem;
+  height: .36rem;
+  margin-left: .06rem;
+  vertical-align: text-top;
+}
+
+.rating img:first-child {
+  margin-left: 0;
+}
+
+.img.noneBg {
+  background: none;
+}

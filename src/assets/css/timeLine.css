@@ -1,0 +1,24 @@
+.time-line {
+  overflow-x: scroll;
+  padding: 0 .2rem;
+  white-space: nowrap; /*//处理块元素中的空白符和换行符，这个属性保证图片不换行*/
+  font-size: 0; /* 去掉 inline-block 间距*/
+  border-bottom: .02rem solid #E6E6E6;
+  background: #ffffff;
+}
+
+.time-line .time {
+  display: inline-block;
+  width: 2rem;
+  height: .42rem;
+  line-height: .42rem;
+  font-size: .3rem;
+  text-align: center;
+  color: #666;
+  padding: .24rem .18rem .2rem; /* .2rem 为给选中样式留空间 */
+}
+
+.time-line .active {
+  color: #e54847;
+  border-bottom: .04rem solid #e54847;
+}

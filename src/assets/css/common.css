@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* 去掉点击产生的阴影 */
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  font-size: 0;
+  background: #f0efed;
+  line-height: 1;
+}
+
+body p {
+  color: #666;
+  display: block;
+  line-height: 1.7;
+}
+
+p {
+  margin: -.2em 0;
+  word-break: break-all;
+  color: #666;
+  display: block;
+  font-size: .26rem;
+}
+
+ul {
+  -webkit-overflow-scrolling: touch;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+button, input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.text-ellipsis {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.alert-enter-active {
+  -webkit-animation-name: pop;
+  -webkit-animation-duration: .3s;
+}
+
+.alert-leave-active {
+  -webkit-animation-name: hide;
+  -webkit-animation-duration: .3s;
+}
+
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.btn {
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  height: .6rem;
+  padding: 0 .32rem;
+  border-radius: .06rem;
+  color: #fff;
+  border: 0;
+  background-color: #df2d2d;
+  font-size: .28rem;
+  vertical-align: middle;
+  line-height: .6rem;
+  box-sizing: border-box;
+  cursor: pointer;
+  -webkit-user-select: none;
+  outline: none;
+}
+
+.btn:disabled {
+  background-color: #dcdcdc !important;
+  color: #999 !important;
+  border: 0 !important;
+}
+
+/* alert 消失时动画 */
+@-webkit-keyframes hide {
+  0% {
+    -webkit-transform: scale(1);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: scale(0);
+    opacity: 0;
+  }
+}
+
+::-webkit-scrollbar { /*隐藏滚轮*/
+  display: none;
+}
+
+/*@-webkit-keyframes pop {*/
+/*0% {*/
+/*-webkit-transform: scale(0.8);*/
+/*opacity: 0;*/
+/*}*/
+
+/*40% {*/
+/*-webkit-transform: scale(1.1);*/
+/*opacity: 1;*/
+/*}*/
+
+/*100% {*/
+/*-webkit-transform: scale(1);*/
+/*}*/
+/*}*/

@@ -1,0 +1,59 @@
+.cinema-container {
+  font-size: .26rem;
+  padding: .25rem 0;
+  /*margin-left: .32rem;*/
+  margin-right: -.25rem;
+  color: #666;
+  position: relative;
+  line-height: 1;
+  border-bottom: 1px solid #E6E6E6;
+  background: #ffffff;
+}
+
+.cinema-container .cinema-name {
+  font-size: .32rem;
+  color: #000;
+  display: inline-block;
+  max-width: 5.7rem;
+}
+
+.cinema-container .price {
+  display: inline-block;
+  margin-left: .2rem;
+  font-size: .22rem;
+  line-height: .3rem;
+}
+
+.theme-color {
+  color: #e54847 !important;
+}
+
+.cinema-container .price .num {
+  font-size: .34rem;
+}
+
+.cinema-container .address {
+  margin-top: .1rem;
+  padding-top: .1rem;
+  margin-right: 1rem;
+  width: 6rem;
+  display: inline-block;
+}
+
+.cinema-container .dis {
+  position: absolute;
+  top: .94rem;
+  right: .24rem;
+  color: #999;
+}
+
+.cinema-container .tag-list div {
+  margin-top: .2rem;
+  display: inline-block;
+  padding: .06rem;
+  border: 1px solid #589DAF;
+  border-radius: .08rem;
+  margin-right: .03rem;
+  font-size: .22rem;
+  color: #589DAF;
+}

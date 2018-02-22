@@ -1,0 +1,49 @@
+.sliderBar {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  padding-left: .2rem;
+  padding-right: .2rem;
+  border-bottom: .08rem solid #DDD8CE;
+  background: #ffffff;
+  font-size: .26rem;
+}
+
+.sliderBar li {
+  display: block;
+  text-align: center;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+}
+
+.sliderBar .tab {
+  display: block;
+  padding: .2rem 0;
+}
+
+.sliderBar, .taba li {
+  position: relative;
+}
+
+.sliderBar .active {
+  color: #df2d2d;
+}
+
+.sliderBar .slider {
+  position: absolute;
+  background: #df2d2d;
+  bottom: -.08rem;
+  height: .08rem;
+  left: .225rem;
+  /*Firefox*/
+  width: -moz-calc((100% - .45rem) / 2);
+  /*chrome safari*/
+  width: -webkit-calc((100% - .45rem) / 2);
+  /*Standard */
+  width: calc((100% - .45rem) / 2);
+
+  transition: left .5s;
+  -moz-transition: left .5s; /* Firefox 4 */
+  -webkit-transition: left .5s; /* Safari 和 Chrome */
+  -o-transition: left .5s; /* Opera */
+}
