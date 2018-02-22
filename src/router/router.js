@@ -63,7 +63,7 @@ const routes = [
     component: function (resolve) {
       require(['../components/Seats'], resolve);
     },
-    meta: {hasEnter: true, scrollToTop: true}
+    meta: {scrollToTop: true}
   },
   {
     path: '/login',
@@ -79,7 +79,7 @@ const routes = [
     component: function (resolve) {
       require(['../components/CreateOrder'], resolve);
     },
-    meta: {scrollToTop: true}
+    meta: {hasEnter: true, scrollToTop: true}
   }
 ];
 
