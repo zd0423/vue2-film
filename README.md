@@ -1,21 +1,28 @@
 # vue2-film
 
-> A Vue.js project
+## 项目简介
 
-## Build Setup
+> 此项目简单模仿[猫眼电影](https://m.maoyan.com)移动端的页面。简单实现了从'影片选择'到'生成订单'的功能。所有数据均为静态数据，并未实现从服务端获取数据功能。
+
+## 技术栈
+
+> vue2 + vuex + vue-router 
+
+
+## 项目运行
 
 ``` bash
-# install dependencies
+
+# 获取项目
+git clone https://github.com/zd0423/vue2-film.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开启本地服务器
 npm run dev
 
-# build for production with minification
+# 发布环境
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
