@@ -1,21 +1,21 @@
 <template>
   <div class="footer">
     <!--  -->
-    <div v-if="type === 1">
-      <div class="btn-group clearfix">
-        <div class="user-action">
-          <router-link :to="{name: 'login'}" class="link btn btn-login">
-            <span>登录</span>
-          </router-link>
-          <a class="link btn btn-signup">
-            <span>注册</span>
-          </a>
-        </div>
-        <router-link :to="{name: 'city'}" class="link btn btn-city">
-          <span>城市: </span>
-          <span class="change-city">{{city}}</span>
-        </router-link>
-      </div>
+    <div v-if="type === 'detailed'">
+      <!--<div class="btn-group clearfix">-->
+        <!--<div class="user-action">-->
+          <!--<router-link :to="{name: 'login'}" class="link btn btn-login">-->
+            <!--<span>登录</span>-->
+          <!--</router-link>-->
+          <!--<a class="link btn btn-signup">-->
+            <!--<span>注册</span>-->
+          <!--</a>-->
+        <!--</div>-->
+        <!--<router-link :to="{name: 'city'}" class="link btn btn-city">-->
+          <!--<span>城市: </span>-->
+          <!--<span class="change-city">{{city}}</span>-->
+        <!--</router-link>-->
+      <!--</div>-->
       <div class="footer-misc">
         <div class="copyright">
           <span>
@@ -40,11 +40,11 @@
       </div>
     </div>
     <!--  -->
-    <div class="copyright" v-if="type === 2">
+    <div class="copyright" v-if="type === 'simple'">
       <span class="copyright">© 猫眼电影 客服电话：<a href="tel:4006705335">400-670-5335</a></span>
     </div>
     <!--  -->
-    <div v-if="type === 3">
+    <div v-if="type === 'flink'">
       <div class="footer-links">友情链接：<a class="theme-color" href="//m.maoyan.com">猫眼电影</a></div>
       <div class="footer-line footer-copyright">
         <div class="hr"></div>
@@ -60,9 +60,9 @@
     props: {
       // footer 类型
       type: {
-        type: Number,
+        type: String,
         default: function () {
-          return 1
+          return 'detailed'
         }
       }
     },

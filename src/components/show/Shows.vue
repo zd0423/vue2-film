@@ -38,7 +38,7 @@
                       :movieId="selectedMovie.id"/>
         <div class="sell-out" v-else>今日场次已映完</div>
       </div>
-      <Footer :type="3"/>
+      <Footer :type="'flink'"/>
     </div>
     <Loading v-if="pageStatus === 'loading'"/>
   </div>

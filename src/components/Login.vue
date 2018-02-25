@@ -42,7 +42,7 @@
     <div class="btn-wrapper">
       <button ref="login" type="submit" class="btn btn-larger btn-block disabled login-btn" @click="doLogin">登录</button>
     </div>
-    <Footer :type="2"/>
+    <Footer :type="'simple'"/>
   </div>
 </template>
 
