@@ -31,7 +31,7 @@ LazyLoader.prototype.init = function (option) {
   // 获取发生滚动的节点
   this.scrollView = this.getScrollView(this.node);
   // 获取视口
-  this.viewport = this.getViewport(this.scrollView, this.node);
+  this.viewport = this.getViewport(this.scrollView);
   // 获取img标签
   var imgTags = this.getImgTags();
 
@@ -74,7 +74,7 @@ LazyLoader.prototype.getScrollView = function (node) {
  * @param scrollView
  * @returns {{}}
  */
-LazyLoader.prototype.getViewport = function (scrollView, node) {
+LazyLoader.prototype.getViewport = function (scrollView) {
   // top, bottom, left, right
   var doc = document.documentElement;
 
@@ -82,7 +82,7 @@ LazyLoader.prototype.getViewport = function (scrollView, node) {
     return {top: 0, bottom: doc.clientHeight, left: 0, right: doc.clientWidth};
 
   var viewport = {};
-  var rect = node.getBoundingClientRect();
+  var rect = scrollView.getBoundingClientRect();
 
   viewport.top = rect.top > 0 ? rect.top : 0;
   viewport.bottom = rect.bottom > doc.clientHeight ? doc.clientHeight : rect.bottom;
