@@ -25,7 +25,6 @@
 </template>
 
 <script>
-
   import {mapGetters, mapActions} from 'vuex'
 
   import {TitleManage} from '../../utils/Manage';
